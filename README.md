@@ -37,4 +37,13 @@ Write some blurb about urself
 - Microsoft
 - Uber
 - EY
+  
 ### Extra-curricular
+- nwPlus
+- UBC Esports Association (UBCMA)
+- UBC Marketing Association (UBCMA) SWE
+- UBC Marketing Association (UBCMA) Sr Studios Consultant
+- Enactus UBC
+- NSCC
+- Spark
+- BUCS Chair
