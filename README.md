@@ -30,13 +30,16 @@ Write some blurb about urself
 - 317 Projects
 - 310 Project
   
-### Cases
+### Cases + Presentations
 - Teaboco
 - TELUS MyPet
 - TELUS Master Rebrand
 - Microsoft
 - Uber
+- Fashionoise
 - EY
+- cmd-f Hackathons + Pitching 101
+- nwHacks Pitching 101
   
 ### Extra-curricular
 - nwPlus
@@ -45,5 +48,5 @@ Write some blurb about urself
 - UBC Marketing Association (UBCMA) Sr Studios Consultant
 - Enactus UBC
 - NSCC
-- Spark
+- Spark OL
 - BUCS Chair
