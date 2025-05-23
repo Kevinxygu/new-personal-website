@@ -5,7 +5,7 @@
 - Work experiences
 - Projects
 - Cases
-- Community
+- Community / Clubs
 
 ### Hero
 Write some blurb about urself
@@ -41,7 +41,7 @@ Write some blurb about urself
 - cmd-f Hackathons + Pitching 101
 - nwHacks Pitching 101
   
-### Extra-curricular
+### Community / Clubs
 - nwPlus
 - UBC Esports Association (UBCMA)
 - UBC Marketing Association (UBCMA) SWE
@@ -50,3 +50,5 @@ Write some blurb about urself
 - NSCC
 - Spark OL
 - BUCS Chair
+
+Compiled all images in Figma
